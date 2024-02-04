@@ -138,6 +138,10 @@
   },
   "clients": [
     {
+      "name": "Fotoplan",
+      "logo": "/assets/images/photoplan.png"
+    },
+    {
       "name": "Know Plastic",
       "logo": "/assets/images/cropped-cropped-Know-Plastics-2-1-1.png"
     },
